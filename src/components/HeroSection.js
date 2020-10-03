@@ -6,7 +6,7 @@ function HeroSection(props){
     return(
         <div className="hero-container">
             {/* /videos/video-2.mp4 */}
-            <video src="" autoPlay loop muted></video>
+            {/* <video src="/videos/video-2.mp4" autoPlay loop muted></video> */}
             <h1>ADVENTURE AWAITS</h1>
             <p>What are you waiting? </p>
             <div className="hero-btns">
